@@ -1,2 +1,5 @@
 # course
 zerogetschool
+
+
+## Project Notes
